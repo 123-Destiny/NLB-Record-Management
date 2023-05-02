@@ -13,4 +13,4 @@ configured forms layout to make tranferring existing client data easier
 
 created an import set, utilized auto field mapping, exstablished a transform map
 
-sucessfully uploaded 200 records of ficticious client data into the database
+sucessfully uploaded 200 records of client data into the database
